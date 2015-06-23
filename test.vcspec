@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ASCII"?>
-<common:Specification xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:common="http://com.bernermattner.vcsspec.common.model/0.1" id="8d8e5517-4c20-45c7-8140-38f316710ee2" name="testbla">
+<common:Specification xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:common="http://com.bernermattner.vcsspec.common.model/0.1" id="8d8e5517-4c20-45c7-8140-38f316710ee2" name="fufu">
   <packages id="e6df16d5-52e6-49e7-a846-b6f4aa8a0428" name="New Package"/>
   <packages id="bd35c3e4-39a1-4252-8c63-1c4318108563" name="New&#xb2; Package"/>
 </common:Specification>
