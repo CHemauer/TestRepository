@@ -1,2 +1,2 @@
 # TestRepository
-This is test repository for testing jgit https access
+This is a test repository for testing jgit https access
